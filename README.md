@@ -1,2 +1,2 @@
 # GAN
-code example and paper note for learning!
+Code example and paper note for GAN learning!
