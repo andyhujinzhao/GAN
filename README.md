@@ -5,3 +5,6 @@ Code example and paper note for GAN learning!
 
 tpdm的用法：
 https://youtu.be/OFqwWUYnjKM
+
+李嫣然tutorial：
+https://youtu.be/dyZXMqnS_x0
